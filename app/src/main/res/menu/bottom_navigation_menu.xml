@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/ic_baseline_brightness_high_24"
+        android:title="zd"/>
+
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/ic_baseline_flight_land_24"
+        android:title="plane"/>
+
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/ic_baseline_domain_24"
+        android:title="lol"/>
+
+    <item
+        android:id="@+id/fourthFragment"
+        android:icon="@drawable/ic_baseline_sentiment_very_satisfied_24"
+        android:title="brr"/>
+
+</menu>
